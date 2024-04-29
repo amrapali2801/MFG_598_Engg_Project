@@ -60,8 +60,8 @@ Results of clustering analyses (K-Means, DBSCAN, Agglomerative Clustering).
 Industry-specific clustering using DBSCAN.
 
 **Technologies Used**
-Python: For backend operations including data scraping, cleaning, and clustering.
-Tkinter: Used for building the GUI to ensure it is lightweight and easy to deploy.
-Matplotlib and Seaborn: For generating static and interactive plots.
-Scikit-learn: Provides robust clustering algorithms for data analysis.
-Beautiful Soup: For scraping HTML content and extracting data.
+Python
+Tkinter
+Matplotlib and Seaborn
+Scikit-learn
+Beautiful Soup
